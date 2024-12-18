@@ -8,6 +8,7 @@ In the training of the NMT model, we utilized the dataset: [EN-to-ZH ECCParaCorp
 
 In the training of LLM, we utilized the same dataset to generate prompts.
 ### Test data
+In the test, we used our manually annotated EN cancer terminology (193 words and 109phrases) with the ZH reference:[EN-to-ZH ECCParaCorp](https://github.com/TIANQIXU1/nlp-project/blob/main/data/Ecc%20train%20phrases.csv).
 
 ## Fine-tuning opus-mt-en-zh
 In the first phase, 
