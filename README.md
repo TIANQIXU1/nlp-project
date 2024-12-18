@@ -11,7 +11,7 @@ In the training of LLM, we utilized the same dataset to generate prompts.
 In the test, we used our manually annotated EN cancer terminology (193 words and 109phrases) with the ZH reference: [test en_zh.json](https://github.com/TIANQIXU1/nlp-project/blob/main/data/test%20en_zh.json).
 
 ## Fine-tuning opus-mt-en-zh
-In the first phase, in-domain data is used to fine-tune the MT model. You can see the script here:
+In the first phase, in-domain data is used to fine-tune the MT model. You can see the script here:[opus-fine_tuning.py](https://github.com/TIANQIXU1/nlp-project/blob/main/opus-fine_tuning.py).
 ## Fine-tuning Qwen2.5 1.5B
 Prompts are created using the 'create_prompt'function
 ## Inference
