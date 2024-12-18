@@ -4,7 +4,8 @@ Abstract here:
 
 ## Data (training and test)
 ### Training data
-In the training of the NMT model, we utilized the dataset:EN to-ZH ECCParaCorp and we used words/phrases extracted from the dataset:
+In the training of the NMT model, we utilized the dataset: [EN-to-ZH ECCParaCorp](https://github.com/TIANQIXU1/nlp-project/blob/main/data/Ecc%20train%20phrases.csv).
+
 In the training of LLM, we utilized the same dataset to generate prompts.
 ### Test data
 
