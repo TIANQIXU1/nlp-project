@@ -1,0 +1,1756 @@
+{
+  "Sheet1": [
+    {
+      "type": "Phrase",
+      "id": "p1",
+      "en_description": "adjunct therapy or treatment",
+      "zh_description": "è¾å©æ²»ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p2",
+      "en_description": "adjuvant chemotherapy",
+      "zh_description": "è¾å©åç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p3",
+      "en_description": "adjuvant radiation therapy",
+      "zh_description": "è¾å©æ¾å°æ²»ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p4",
+      "en_description": "advance care planning",
+      "zh_description": "é¢åæ¤çè§å"
+    },
+    {
+      "type": "Phrase",
+      "id": "p5",
+      "en_description": "adverse effect",
+      "zh_description": "ä¸è¯å½±å"
+    },
+    {
+      "type": "Phrase",
+      "id": "p6",
+      "en_description": "allergic reaction",
+      "zh_description": "è¿æååº"
+    },
+    {
+      "type": "Phrase",
+      "id": "p7",
+      "en_description": "allied health workers",
+      "zh_description": "ä¸èå»çå·¥ä½è"
+    },
+    {
+      "type": "Phrase",
+      "id": "p8",
+      "en_description": "alternative therapy",
+      "zh_description": "æ¿ä»£çæ³"
+    },
+    {
+      "type": "Phrase",
+      "id": "p9",
+      "en_description": "Androgen Deprivation Therapy ",
+      "zh_description": "éæ¿ç´ å¥å¤ºçæ³"
+    },
+    {
+      "type": "Phrase",
+      "id": "p10",
+      "en_description": "barium enema",
+      "zh_description": "é¡åçè "
+    },
+    {
+      "type": "Phrase",
+      "id": "p11",
+      "en_description": "blood count",
+      "zh_description": "è¡ç»èè®¡æ°"
+    },
+    {
+      "type": "Phrase",
+      "id": "p12",
+      "en_description": "booked admissions",
+      "zh_description": "é¢çº¦å¥é¢"
+    },
+    {
+      "type": "Phrase",
+      "id": "p13",
+      "en_description": "bowel prep or bowel preparation",
+      "zh_description": "æä¾¿åå¤"
+    },
+    {
+      "type": "Phrase",
+      "id": "p14",
+      "en_description": "breakthrough pain",
+      "zh_description": "çåæ§ç¼ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p15",
+      "en_description": "cancer imaging\n(also called diagnostic imaging)",
+      "zh_description": "ççæå\n(åç§°è¯æ­æåï¼"
+    },
+    {
+      "type": "Phrase",
+      "id": "p16",
+      "en_description": "cancer journey",
+      "zh_description": "æçåç¨"
+    },
+    {
+      "type": "Phrase",
+      "id": "p17",
+      "en_description": "cancer of unknown primary origin",
+      "zh_description": "ååæ§ä¸æçç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p18",
+      "en_description": "cancer staging",
+      "zh_description": "ççåæ"
+    },
+    {
+      "type": "Phrase",
+      "id": "p19",
+      "en_description": "cancer survivor",
+      "zh_description": "ççåº·å¤è"
+    },
+    {
+      "type": "Phrase",
+      "id": "p20",
+      "en_description": "carcinoma in situ",
+      "zh_description": "åä½ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p21",
+      "en_description": "central line\n",
+      "zh_description": "ä¸­å¿éè"
+    },
+    {
+      "type": "Phrase",
+      "id": "p22",
+      "en_description": "chemo brain",
+      "zh_description": "åçè"
+    },
+    {
+      "type": "Phrase",
+      "id": "p23",
+      "en_description": "chemotherapy",
+      "zh_description": "åå­¦çæ³"
+    },
+    {
+      "type": "Phrase",
+      "id": "p24",
+      "en_description": "chronic pain",
+      "zh_description": "æ¢æ§ç¼ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p25",
+      "en_description": "clear margin",
+      "zh_description": "åç¼æ¸æ°"
+    },
+    {
+      "type": "Phrase",
+      "id": "p26",
+      "en_description": "clinical trial",
+      "zh_description": "ä¸´åºè¯éª"
+    },
+    {
+      "type": "Phrase",
+      "id": "p27",
+      "en_description": "colostomy bag",
+      "zh_description": "ç»è é å£è¢"
+    },
+    {
+      "type": "Phrase",
+      "id": "p28",
+      "en_description": "complementary therapy",
+      "zh_description": "è¾å©çæ³"
+    },
+    {
+      "type": "Phrase",
+      "id": "p29",
+      "en_description": "CT scan",
+      "zh_description": "CT æ«æ"
+    },
+    {
+      "type": "Phrase",
+      "id": "p30",
+      "en_description": "diagnostic imaging\n(also called cancer imaging)",
+      "zh_description": "è¯æ­æå\n(åç§°ççæåï¼"
+    },
+    {
+      "type": "Phrase",
+      "id": "p31",
+      "en_description": "digestive system",
+      "zh_description": "æ¶åç³»ç»"
+    },
+    {
+      "type": "Phrase",
+      "id": "p32",
+      "en_description": "DVT (deep vein thrombosis)",
+      "zh_description": "æ·±éèè¡æ ï¼DVTï¼"
+    },
+    {
+      "type": "Phrase",
+      "id": "p33",
+      "en_description": "enduring power of attorney medical (also called a MePOA)",
+      "zh_description": "å»çæä¹ææä¹¦ï¼åç§° MePOA)"
+    },
+    {
+      "type": "Phrase",
+      "id": "p34",
+      "en_description": "febrile neutropenia",
+      "zh_description": "åç­æ§ä¸­æ§ç²ç»èåå°ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p35",
+      "en_description": "gait aids",
+      "zh_description": "æ­¥æè¾å©å¨"
+    },
+    {
+      "type": "Phrase",
+      "id": "p36",
+      "en_description": "gastroenterology",
+      "zh_description": "èè çå­¦"
+    },
+    {
+      "type": "Phrase",
+      "id": "p37",
+      "en_description": "general anaesthetic",
+      "zh_description": "å¨èº«éº»é"
+    },
+    {
+      "type": "Phrase",
+      "id": "p38",
+      "en_description": "germ cells",
+      "zh_description": "çæ®ç»è"
+    },
+    {
+      "type": "Phrase",
+      "id": "p39",
+      "en_description": "GP (general practitioner)",
+      "zh_description": "GPï¼å¨ç§å»çï¼"
+    },
+    {
+      "type": "Phrase",
+      "id": "p40",
+      "en_description": "HDU (high dependency unit)",
+      "zh_description": "HDU ï¼é«ä¾èµçæ¿ï¼"
+    },
+    {
+      "type": "Phrase",
+      "id": "p41",
+      "en_description": "HMO (house medical officer, also called a âresidentâ)",
+      "zh_description": "ä½é¢å»å¸"
+    },
+    {
+      "type": "Phrase",
+      "id": "p42",
+      "en_description": "Hodgkinâs lymphoma\n",
+      "zh_description": "éå¥éæ·å·´ç¤"
+    },
+    {
+      "type": "Phrase",
+      "id": "p43",
+      "en_description": "ICU (intensive care unit)",
+      "zh_description": "ICUï¼éççæ¤å®¤ï¼"
+    },
+    {
+      "type": "Phrase",
+      "id": "p44",
+      "en_description": "informed consent",
+      "zh_description": "ç¥æåæ"
+    },
+    {
+      "type": "Phrase",
+      "id": "p45",
+      "en_description": "informed consent form",
+      "zh_description": "ç¥æåæä¹¦"
+    },
+    {
+      "type": "Phrase",
+      "id": "p46",
+      "en_description": "key hole surgery",
+      "zh_description": "å¾®åææ¯"
+    },
+    {
+      "type": "Phrase",
+      "id": "p47",
+      "en_description": "laparoscopic surgery",
+      "zh_description": "è¹èéææ¯"
+    },
+    {
+      "type": "Phrase",
+      "id": "p48",
+      "en_description": "local anaesthetic",
+      "zh_description": "å±é¨éº»é"
+    },
+    {
+      "type": "Phrase",
+      "id": "p49",
+      "en_description": "lymph glands",
+      "zh_description": "æ·å·´ç», æ·å·´èº"
+    },
+    {
+      "type": "Phrase",
+      "id": "p50",
+      "en_description": "lymph nodes ",
+      "zh_description": "æ·å·´ç», æ·å·´èº"
+    },
+    {
+      "type": "Phrase",
+      "id": "p51",
+      "en_description": "lymph system",
+      "zh_description": "æ·å·´ç³»ç»"
+    },
+    {
+      "type": "Phrase",
+      "id": "p52",
+      "en_description": "lymph vessels",
+      "zh_description": "æ·å·´ç®¡"
+    },
+    {
+      "type": "Phrase",
+      "id": "p53",
+      "en_description": "lymphatic system",
+      "zh_description": "æ·å·´ç³»ç»"
+    },
+    {
+      "type": "Phrase",
+      "id": "p54",
+      "en_description": "magnetic resonance imaging",
+      "zh_description": "ç£å±æ¯æè±¡, ç£å±æ¯æå, ç£å±æ¯é å½±"
+    },
+    {
+      "type": "Phrase",
+      "id": "p55",
+      "en_description": "medical emergency team call",
+      "zh_description": "å»çææ´çµè¯,å»çåºæ¥ææ´çµè¯"
+    },
+    {
+      "type": "Phrase",
+      "id": "p56",
+      "en_description": "medical enduring power of attorney",
+      "zh_description": "å»çæä¹ææäºº,å»çæä¹ä»£çäºº"
+    },
+    {
+      "type": "Phrase",
+      "id": "p57",
+      "en_description": "medical oncologist",
+      "zh_description": "è¿ç¤åç§å»ç, è¿ç¤åç§å­¦å®¶"
+    },
+    {
+      "type": "Phrase",
+      "id": "p58",
+      "en_description": "medical oncology",
+      "zh_description": "åç§è¿ç¤å­¦"
+    },
+    {
+      "type": "Phrase",
+      "id": "p59",
+      "en_description": "MET call",
+      "zh_description": "å»çææ´çµè¯,å»çåºæ¥ææ´çµè¯"
+    },
+    {
+      "type": "Phrase",
+      "id": "p60",
+      "en_description": "methicillin-resistant staphylococcus aureus",
+      "zh_description": "èç²æ°§è¥¿æéé»è²è¡èçè"
+    },
+    {
+      "type": "Phrase",
+      "id": "p61",
+      "en_description": "multidisciplinary team",
+      "zh_description": "å¤å­¦ç§ä¼è¯,å¤å­¦ç§èåä¼è¯"
+    },
+    {
+      "type": "Phrase",
+      "id": "p62",
+      "en_description": "nasogastric tube",
+      "zh_description": "é¼»èç®¡"
+    },
+    {
+      "type": "Phrase",
+      "id": "p63",
+      "en_description": "neoadjuvant therapy",
+      "zh_description": "æ°è¾å©æ²»ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p64",
+      "en_description": "neoadjuvant treatment",
+      "zh_description": "æ°è¾å©æ²»ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p65",
+      "en_description": "Non-Hodgkinâs lymphoma",
+      "zh_description": "ééå¥éæ·å·´ç¤"
+    },
+    {
+      "type": "Phrase",
+      "id": "p66",
+      "en_description": "nuclear medicine",
+      "zh_description": "æ ¸å»å­¦, åå­æ ¸å»å­¦"
+    },
+    {
+      "type": "Phrase",
+      "id": "p67",
+      "en_description": "nurse unit manager",
+      "zh_description": "çæ¿æ¤å£«é¿"
+    },
+    {
+      "type": "Phrase",
+      "id": "p68",
+      "en_description": "pain and palliative care",
+      "zh_description": "ç¼çåå§æ¯æ²»ç, ç¼çåå§æ¯çæ³,å§æ¯çæ³,å§æ¯æ²»ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p69",
+      "en_description": "patient controlled analgesia",
+      "zh_description": "æ£èèªæ§éç,çäººèªæ§éç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p70",
+      "en_description": "Pseudomyxoma peritonei",
+      "zh_description": "è¹èåç²æ¶²ç¤"
+    },
+    {
+      "type": "Phrase",
+      "id": "p71",
+      "en_description": "quality of life",
+      "zh_description": "çæ´»è´¨é"
+    },
+    {
+      "type": "Phrase",
+      "id": "p72",
+      "en_description": "radiation oncologist",
+      "zh_description": "æ¾å°è¿ç¤ç§å»ç,æ¾å°è¿ç¤ä¸å®¶"
+    },
+    {
+      "type": "Phrase",
+      "id": "p73",
+      "en_description": "radiation therapist",
+      "zh_description": "æ¾å°æ²»çå¸"
+    },
+    {
+      "type": "Phrase",
+      "id": "p74",
+      "en_description": "radiation therapy",
+      "zh_description": "æ¾å°æ²»çå¸"
+    },
+    {
+      "type": "Phrase",
+      "id": "p75",
+      "en_description": "radioactive tracer",
+      "zh_description": "æ¾å°æ§æ è®°ç©,æ¾å°æ§ç¤ºè¸ªå"
+    },
+    {
+      "type": "Phrase",
+      "id": "p76",
+      "en_description": "recurrent cancer",
+      "zh_description": "å¤åæ§çç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p77",
+      "en_description": "referral letter",
+      "zh_description": "è½¬è¯å,è½¬è¯è¯æ"
+    },
+    {
+      "type": "Phrase",
+      "id": "p78",
+      "en_description": "robotic surgery",
+      "zh_description": "æºå¨äººææ¯"
+    },
+    {
+      "type": "Phrase",
+      "id": "p79",
+      "en_description": "SABR",
+      "zh_description": "ç«ä½å®åæ¶èæ¾ç,ç«ä½å®åç¬å®¹æ§æ¾ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p80",
+      "en_description": "secondary cancer",
+      "zh_description": "ç»§åæ§çç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p81",
+      "en_description": "sentinel node",
+      "zh_description": "åå¨æ·å·´ç»"
+    },
+    {
+      "type": "Phrase",
+      "id": "p82",
+      "en_description": "sepsis pathway",
+      "zh_description": "èæ¯çéå¾"
+    },
+    {
+      "type": "Phrase",
+      "id": "p83",
+      "en_description": "simulation for radiotherapy",
+      "zh_description": "æ¾å°æ²»çæ ååæµç¨"
+    },
+    {
+      "type": "Phrase",
+      "id": "p84",
+      "en_description": "small bowel",
+      "zh_description": "å°è "
+    },
+    {
+      "type": "Phrase",
+      "id": "p85",
+      "en_description": "small intestine",
+      "zh_description": "å°è "
+    },
+    {
+      "type": "Phrase",
+      "id": "p86",
+      "en_description": "soft tissue",
+      "zh_description": "è½¯ç»ç»"
+    },
+    {
+      "type": "Phrase",
+      "id": "p87",
+      "en_description": "soft tissues",
+      "zh_description": "è½¯ç»ç»"
+    },
+    {
+      "type": "Phrase",
+      "id": "p88",
+      "en_description": "stage 0",
+      "zh_description": "åä½ç,ä¸ç¹ç,T0"
+    },
+    {
+      "type": "Phrase",
+      "id": "p89",
+      "en_description": "stage 1",
+      "zh_description": "ç¬¬ä¸æ,T1"
+    },
+    {
+      "type": "Phrase",
+      "id": "p90",
+      "en_description": "stage 2",
+      "zh_description": "ç¬¬äºæ,T"
+    },
+    {
+      "type": "Phrase",
+      "id": "p91",
+      "en_description": "stage 3",
+      "zh_description": "ç¬¬ä¸æ"
+    },
+    {
+      "type": "Phrase",
+      "id": "p92",
+      "en_description": "stage 4",
+      "zh_description": "ç¬¬åæ"
+    },
+    {
+      "type": "Phrase",
+      "id": "p93",
+      "en_description": "stage I",
+      "zh_description": "ç¬¬ä¸æ,T1"
+    },
+    {
+      "type": "Phrase",
+      "id": "p94",
+      "en_description": "stage II",
+      "zh_description": "ç¬¬äºæ"
+    },
+    {
+      "type": "Phrase",
+      "id": "p95",
+      "en_description": "stage III",
+      "zh_description": "ç¬¬ä¸æ"
+    },
+    {
+      "type": "Phrase",
+      "id": "p96",
+      "en_description": "stage IV",
+      "zh_description": "ç¬¬åæ"
+    },
+    {
+      "type": "Phrase",
+      "id": "p97",
+      "en_description": "stereotactic ablative body radiation",
+      "zh_description": "ç«ä½å®åæ¶èæ¾ç,ç«ä½å®åç¬å®¹æ§æ¾ç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p98",
+      "en_description": "surgical margin",
+      "zh_description": "ææ¯åç¼,åç¼"
+    },
+    {
+      "type": "Phrase",
+      "id": "p99",
+      "en_description": "surgical oncologist",
+      "zh_description": "è¿ç¤å¤ç§å»ç, è¿ç¤å¤ç§å­¦å®¶"
+    },
+    {
+      "type": "Phrase",
+      "id": "p100",
+      "en_description": "TED stockings",
+      "zh_description": "æè¡æ ååå¸¦"
+    },
+    {
+      "type": "Phrase",
+      "id": "p101",
+      "en_description": "TEDs",
+      "zh_description": "æè¡æ ååå¸¦"
+    },
+    {
+      "type": "Phrase",
+      "id": "p102",
+      "en_description": "thrombo embolic deterrent",
+      "zh_description": "æè¡æ ååå¸¦"
+    },
+    {
+      "type": "Phrase",
+      "id": "p103",
+      "en_description": "tissue biopsy",
+      "zh_description": "ç»ç»æ´»æ£,æ´»æ£"
+    },
+    {
+      "type": "Phrase",
+      "id": "p104",
+      "en_description": "transrectal ultrasound",
+      "zh_description": "ç»ç´è è¶å£°æ£æ¥"
+    },
+    {
+      "type": "Phrase",
+      "id": "p105",
+      "en_description": "transurethral resection of the prostate",
+      "zh_description": "ç»å°¿éååèºåé¤æ¯"
+    },
+    {
+      "type": "Phrase",
+      "id": "p106",
+      "en_description": "unknown primary origin",
+      "zh_description": "ååé¨ä½ä¸æç,æªç¥æ¥æºç"
+    },
+    {
+      "type": "Phrase",
+      "id": "p107",
+      "en_description": "Vancomycin Resistant Enterococcus",
+      "zh_description": "ä¸å¤éç´ èè¯è çè"
+    },
+    {
+      "type": "Phrase",
+      "id": "p108",
+      "en_description": "video assisted thoracic surgery",
+      "zh_description": "çµè§è¾å©è¸èéææ¯,è¸èéææ¯"
+    },
+    {
+      "type": "Phrase",
+      "id": "p109",
+      "en_description": "x-ray procedure",
+      "zh_description": "xå°çº¿æ£æ¥,xåæ£æ¥"
+    },
+    {
+      "type": "Word",
+      "id": "w1",
+      "en_description": "abdomen",
+      "zh_description": "è¹é¨"
+    },
+    {
+      "type": "Word",
+      "id": "w2",
+      "en_description": "acute",
+      "zh_description": "æ¥æ§ç"
+    },
+    {
+      "type": "Word",
+      "id": "w3",
+      "en_description": "adenocarcinoma",
+      "zh_description": "èºç"
+    },
+    {
+      "type": "Word",
+      "id": "w4",
+      "en_description": "adenopathy",
+      "zh_description": "èºç"
+    },
+    {
+      "type": "Word",
+      "id": "w5",
+      "en_description": "adt",
+      "zh_description": "éæ¿ç´ å¥å¤ºçæ³"
+    },
+    {
+      "type": "Word",
+      "id": "w6",
+      "en_description": "advanced",
+      "zh_description": "æåç,èç"
+    },
+    {
+      "type": "Word",
+      "id": "w7",
+      "en_description": "allergic",
+      "zh_description": "è¿ææ§ç"
+    },
+    {
+      "type": "Word",
+      "id": "w8",
+      "en_description": "alliance",
+      "zh_description": "åç,èå, èç»"
+    },
+    {
+      "type": "Word",
+      "id": "w9",
+      "en_description": "ambulate/ambulatory",
+      "zh_description": "è¡èµ°,å¯è¡èµ°"
+    },
+    {
+      "type": "Word",
+      "id": "w10",
+      "en_description": "anaemia",
+      "zh_description": "è´«è¡"
+    },
+    {
+      "type": "Word",
+      "id": "w11",
+      "en_description": "anaesthetic",
+      "zh_description": "æè§ç¼ºå¤±ç,éº»éç,éº»éå"
+    },
+    {
+      "type": "Word",
+      "id": "w12",
+      "en_description": "analgesic",
+      "zh_description": "éçå,æ­¢çå"
+    },
+    {
+      "type": "Word",
+      "id": "w13",
+      "en_description": "anaplastic",
+      "zh_description": "é´åç"
+    },
+    {
+      "type": "Word",
+      "id": "w14",
+      "en_description": "antibiotic",
+      "zh_description": "æçç´ ,æèç´ "
+    },
+    {
+      "type": "Word",
+      "id": "w15",
+      "en_description": "antibody",
+      "zh_description": "æä½"
+    },
+    {
+      "type": "Word",
+      "id": "w16",
+      "en_description": "anticoagulant",
+      "zh_description": "æåè¡å"
+    },
+    {
+      "type": "Word",
+      "id": "w17",
+      "en_description": "anti-emetics",
+      "zh_description": "æ­¢åè¯"
+    },
+    {
+      "type": "Word",
+      "id": "w18",
+      "en_description": "anus",
+      "zh_description": "èé¨"
+    },
+    {
+      "type": "Word",
+      "id": "w19",
+      "en_description": "apheresis",
+      "zh_description": "è¡æµåç¦»ç½®æ¢æ³,è¡æ¶²æåé¨åæ¸é¤"
+    },
+    {
+      "type": "Word",
+      "id": "w20",
+      "en_description": "approximately",
+      "zh_description": "è¿ä¼¼å°"
+    },
+    {
+      "type": "Word",
+      "id": "w21",
+      "en_description": "artery",
+      "zh_description": "å¨è"
+    },
+    {
+      "type": "Word",
+      "id": "w22",
+      "en_description": "aspirate",
+      "zh_description": "æ½å¸"
+    },
+    {
+      "type": "Word",
+      "id": "w23",
+      "en_description": "assess",
+      "zh_description": "è¯ä¼°"
+    },
+    {
+      "type": "Word",
+      "id": "w24",
+      "en_description": "atrophy",
+      "zh_description": "èç¼©"
+    },
+    {
+      "type": "Word",
+      "id": "w25",
+      "en_description": "axilla",
+      "zh_description": "èçª"
+    },
+    {
+      "type": "Word",
+      "id": "w26",
+      "en_description": "barium (used in x-ray)",
+      "zh_description": "é¡"
+    },
+    {
+      "type": "Word",
+      "id": "w27",
+      "en_description": "benign",
+      "zh_description": "è¯æ§"
+    },
+    {
+      "type": "Word",
+      "id": "w28",
+      "en_description": "bilateral",
+      "zh_description": "ä¸¤ä¾§ç"
+    },
+    {
+      "type": "Word",
+      "id": "w29",
+      "en_description": "biopsy",
+      "zh_description": "æ´»å"
+    },
+    {
+      "type": "Word",
+      "id": "w30",
+      "en_description": "bladder",
+      "zh_description": " å; èè±"
+    },
+    {
+      "type": "Word",
+      "id": "w31",
+      "en_description": "bone marrow",
+      "zh_description": "éª¨é«"
+    },
+    {
+      "type": "Word",
+      "id": "w32",
+      "en_description": "bowel",
+      "zh_description": "è "
+    },
+    {
+      "type": "Word",
+      "id": "w33",
+      "en_description": "brachytherapy",
+      "zh_description": "éæ²»ç"
+    },
+    {
+      "type": "Word",
+      "id": "w34",
+      "en_description": "breakthrough",
+      "zh_description": "çªç ´"
+    },
+    {
+      "type": "Word",
+      "id": "w35",
+      "en_description": "bronchoscopy",
+      "zh_description": "æ¯æ°ç®¡éæ£æ¥æ³"
+    },
+    {
+      "type": "Word",
+      "id": "w36",
+      "en_description": "cancer",
+      "zh_description": "ç"
+    },
+    {
+      "type": "Word",
+      "id": "w37",
+      "en_description": "cannula",
+      "zh_description": "å¥ï¼å¥ç®¡ï¼æç®¡"
+    },
+    {
+      "type": "Word",
+      "id": "w38",
+      "en_description": "carcinogen",
+      "zh_description": "å¶çç©"
+    },
+    {
+      "type": "Word",
+      "id": "w39",
+      "en_description": "carcinoma",
+      "zh_description": " çç¤"
+    },
+    {
+      "type": "Word",
+      "id": "w40",
+      "en_description": "catheter",
+      "zh_description": "å¿ç®¡ï¼å¯¼å°¿ç®¡"
+    },
+    {
+      "type": "Word",
+      "id": "w41",
+      "en_description": "cells",
+      "zh_description": "ç»è"
+    },
+    {
+      "type": "Word",
+      "id": "w42",
+      "en_description": "chronic",
+      "zh_description": "é¿æçï¼æ¢æ§ç"
+    },
+    {
+      "type": "Word",
+      "id": "w43",
+      "en_description": "colectomy",
+      "zh_description": "ç»è åé¤æ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w44",
+      "en_description": "colon",
+      "zh_description": "ç»è "
+    },
+    {
+      "type": "Word",
+      "id": "w45",
+      "en_description": "colonoscopy",
+      "zh_description": "ç»è éæ£æ¥"
+    },
+    {
+      "type": "Word",
+      "id": "w46",
+      "en_description": "colorectal",
+      "zh_description": "ç»è ç´è ç"
+    },
+    {
+      "type": "Word",
+      "id": "w47",
+      "en_description": "colostomy",
+      "zh_description": " ç»è é å£æ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w48",
+      "en_description": "colposcopy",
+      "zh_description": "é´ééæ£æ¥"
+    },
+    {
+      "type": "Word",
+      "id": "w49",
+      "en_description": "communication",
+      "zh_description": "éç¥ï¼éä¿¡ï¼èç»"
+    },
+    {
+      "type": "Word",
+      "id": "w50",
+      "en_description": "contrast (liquid)",
+      "zh_description": "å¯¹æ¯å"
+    },
+    {
+      "type": "Word",
+      "id": "w51",
+      "en_description": "cure",
+      "zh_description": "çç¨ï¼æ²»æ"
+    },
+    {
+      "type": "Word",
+      "id": "w52",
+      "en_description": "cystoscopy",
+      "zh_description": "èè±éæ£æ¥"
+    },
+    {
+      "type": "Word",
+      "id": "w53",
+      "en_description": "cytotoxic",
+      "zh_description": "ç»èæ¯ç"
+    },
+    {
+      "type": "Word",
+      "id": "w54",
+      "en_description": "cytotoxic (a person)",
+      "zh_description": "ç»èæ¯è"
+    },
+    {
+      "type": "Word",
+      "id": "w55",
+      "en_description": "diagnosis",
+      "zh_description": "è¯æ­ï¼è¯å«"
+    },
+    {
+      "type": "Word",
+      "id": "w56",
+      "en_description": "dialysis",
+      "zh_description": "éæ"
+    },
+    {
+      "type": "Word",
+      "id": "w57",
+      "en_description": "diarrhoea",
+      "zh_description": "è¹æ³»"
+    },
+    {
+      "type": "Word",
+      "id": "w58",
+      "en_description": "dietitian\n(also called a ânutritionistâ)",
+      "zh_description": "è¥å»å¸\n(åç§°'è¥å»å¸'ï¼"
+    },
+    {
+      "type": "Word",
+      "id": "w59",
+      "en_description": "discharge",
+      "zh_description": "å¸è´§,æåº"
+    },
+    {
+      "type": "Word",
+      "id": "w60",
+      "en_description": "dose",
+      "zh_description": "dose"
+    },
+    {
+      "type": "Word",
+      "id": "w61",
+      "en_description": "DRE",
+      "zh_description": "æ°å­ç´è æ£æ¥"
+    },
+    {
+      "type": "Word",
+      "id": "w62",
+      "en_description": "dysfunction",
+      "zh_description": "åè½å¤±è°"
+    },
+    {
+      "type": "Word",
+      "id": "w63",
+      "en_description": "dysplasia",
+      "zh_description": "åè²ä¸è¯, åè²å¼å¸¸"
+    },
+    {
+      "type": "Word",
+      "id": "w64",
+      "en_description": "eGFR",
+      "zh_description": "è¾å°çæ»¤è¿ç"
+    },
+    {
+      "type": "Word",
+      "id": "w65",
+      "en_description": "embolism",
+      "zh_description": "æ å¡"
+    },
+    {
+      "type": "Word",
+      "id": "w66",
+      "en_description": "endoscope",
+      "zh_description": "åçª¥éï¼åèé"
+    },
+    {
+      "type": "Word",
+      "id": "w67",
+      "en_description": "endoscopy",
+      "zh_description": "åçª¥éæ£æ¥"
+    },
+    {
+      "type": "Word",
+      "id": "w68",
+      "en_description": "epidural",
+      "zh_description": "ç¡¬èå¤ç"
+    },
+    {
+      "type": "Word",
+      "id": "w69",
+      "en_description": "excision",
+      "zh_description": "åé¤æ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w70",
+      "en_description": "faeces",
+      "zh_description": "ç²ªä¾¿"
+    },
+    {
+      "type": "Word",
+      "id": "w71",
+      "en_description": "fast or fasted",
+      "zh_description": "ç¦é£"
+    },
+    {
+      "type": "Word",
+      "id": "w72",
+      "en_description": "febrile",
+      "zh_description": "åç­ç"
+    },
+    {
+      "type": "Word",
+      "id": "w73",
+      "en_description": "flap",
+      "zh_description": "ç®ç£"
+    },
+    {
+      "type": "Word",
+      "id": "w74",
+      "en_description": "gastroscopy",
+      "zh_description": "èéæ£æ¥"
+    },
+    {
+      "type": "Word",
+      "id": "w75",
+      "en_description": "groin",
+      "zh_description": "è¹è¡æ²"
+    },
+    {
+      "type": "Word",
+      "id": "w76",
+      "en_description": "gynaecology",
+      "zh_description": "å¦ç§"
+    },
+    {
+      "type": "Word",
+      "id": "w77",
+      "en_description": "haematology",
+      "zh_description": "haematology"
+    },
+    {
+      "type": "Word",
+      "id": "w78",
+      "en_description": "haematuria",
+      "zh_description": "è¡å°¿"
+    },
+    {
+      "type": "Word",
+      "id": "w79",
+      "en_description": "hormone",
+      "zh_description": "æ¿ç´ ï¼è·å°è"
+    },
+    {
+      "type": "Word",
+      "id": "w80",
+      "en_description": "hypertension",
+      "zh_description": "é«è¡å"
+    },
+    {
+      "type": "Word",
+      "id": "w81",
+      "en_description": "hypotension",
+      "zh_description": "ä½è¡å"
+    },
+    {
+      "type": "Word",
+      "id": "w82",
+      "en_description": "hysterectomy",
+      "zh_description": "å­å®«åé¤æ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w83",
+      "en_description": "ileostomy",
+      "zh_description": "åè é å£æ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w84",
+      "en_description": "ileus",
+      "zh_description": "è æ¢é»"
+    },
+    {
+      "type": "Word",
+      "id": "w85",
+      "en_description": "incontinence",
+      "zh_description": "å¤±ç¦"
+    },
+    {
+      "type": "Word",
+      "id": "w86",
+      "en_description": "infection",
+      "zh_description": "ä¼ æãææ"
+    },
+    {
+      "type": "Word",
+      "id": "w87",
+      "en_description": "infusion",
+      "zh_description": "æµ¸æ³¡æ¶²"
+    },
+    {
+      "type": "Word",
+      "id": "w88",
+      "en_description": "intestines (digestive)",
+      "zh_description": "è ç»æ ¸"
+    },
+    {
+      "type": "Word",
+      "id": "w89",
+      "en_description": "intramuscular",
+      "zh_description": "èèæ³¨å°"
+    },
+    {
+      "type": "Word",
+      "id": "w90",
+      "en_description": "intravenous",
+      "zh_description": "éèåç"
+    },
+    {
+      "type": "Word",
+      "id": "w91",
+      "en_description": "isotope",
+      "zh_description": "åä½ç´ "
+    },
+    {
+      "type": "Word",
+      "id": "w92",
+      "en_description": "kidney",
+      "zh_description": "è¾è"
+    },
+    {
+      "type": "Word",
+      "id": "w93",
+      "en_description": "laparoscopy",
+      "zh_description": "è¹èé"
+    },
+    {
+      "type": "Word",
+      "id": "w94",
+      "en_description": "leukopenia",
+      "zh_description": "ç½ç»èåå°ç"
+    },
+    {
+      "type": "Word",
+      "id": "w95",
+      "en_description": "localised",
+      "zh_description": "å±éç"
+    },
+    {
+      "type": "Word",
+      "id": "w96",
+      "en_description": "lymph",
+      "zh_description": "æ·å·´"
+    },
+    {
+      "type": "Word",
+      "id": "w97",
+      "en_description": "lymphoedema",
+      "zh_description": "æ·å·´æ°´è¿"
+    },
+    {
+      "type": "Word",
+      "id": "w98",
+      "en_description": "lymphoma",
+      "zh_description": "æ·å·´ç¤"
+    },
+    {
+      "type": "Word",
+      "id": "w99",
+      "en_description": "malignant",
+      "zh_description": "æ¶æ§ç"
+    },
+    {
+      "type": "Word",
+      "id": "w100",
+      "en_description": "mammogram",
+      "zh_description": "ä¹³æ¿Xåç"
+    },
+    {
+      "type": "Word",
+      "id": "w101",
+      "en_description": "mass",
+      "zh_description": "å¢,å"
+    },
+    {
+      "type": "Word",
+      "id": "w102",
+      "en_description": "mastectomy",
+      "zh_description": "ä¹³æ¿åé¤æ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w103",
+      "en_description": "MDT",
+      "zh_description": "å¤å­¦ç§ä¼è¯,å¤å­¦ç§èåä¼è¯"
+    },
+    {
+      "type": "Word",
+      "id": "w104",
+      "en_description": "melanoma",
+      "zh_description": "é»ç´ ç¤, é»è²ç´ ç¤"
+    },
+    {
+      "type": "Word",
+      "id": "w105",
+      "en_description": "MePOA",
+      "zh_description": "å»çæä¹ææäºº,å»çæä¹ä»£çäºº"
+    },
+    {
+      "type": "Word",
+      "id": "w106",
+      "en_description": "metastasis",
+      "zh_description": "è½¬ç§»"
+    },
+    {
+      "type": "Word",
+      "id": "w107",
+      "en_description": "metastasize",
+      "zh_description": "è½¬ç§»"
+    },
+    {
+      "type": "Word",
+      "id": "w108",
+      "en_description": "mets",
+      "zh_description": "è½¬ç§»"
+    },
+    {
+      "type": "Word",
+      "id": "w109",
+      "en_description": "monitor",
+      "zh_description": "çè§"
+    },
+    {
+      "type": "Word",
+      "id": "w110",
+      "en_description": "MRI",
+      "zh_description": "ç£å±æ¯æè±¡, ç£å±æ¯æå, ç£å±æ¯é å½±"
+    },
+    {
+      "type": "Word",
+      "id": "w111",
+      "en_description": "MRSA",
+      "zh_description": "èç²æ°§è¥¿æéé»è²è¡èçè"
+    },
+    {
+      "type": "Word",
+      "id": "w112",
+      "en_description": "nadir",
+      "zh_description": "å¤©åº, æä½ç¹"
+    },
+    {
+      "type": "Word",
+      "id": "w113",
+      "en_description": "nauseous",
+      "zh_description": "æ¶å¿ç, æ¶å¿"
+    },
+    {
+      "type": "Word",
+      "id": "w114",
+      "en_description": "nebs",
+      "zh_description": "é¾åå¨"
+    },
+    {
+      "type": "Word",
+      "id": "w115",
+      "en_description": "nebuliser",
+      "zh_description": "é¾åå¨"
+    },
+    {
+      "type": "Word",
+      "id": "w116",
+      "en_description": "necrotic",
+      "zh_description": "åæ­»ç, åæ­»"
+    },
+    {
+      "type": "Word",
+      "id": "w117",
+      "en_description": "neutropenia",
+      "zh_description": "ä¸­æ§ç²ç»èåå°ç"
+    },
+    {
+      "type": "Word",
+      "id": "w118",
+      "en_description": "neutropenic",
+      "zh_description": "ç²ç»èç¼ºä¹ç, ä¸­ç²ç»èåå°"
+    },
+    {
+      "type": "Word",
+      "id": "w119",
+      "en_description": "neutrophils",
+      "zh_description": "ä¸­æ§ç²ç»è, åä¸­æ§ç²ç»è, åä¸­æ§ç²ç»è"
+    },
+    {
+      "type": "Word",
+      "id": "w120",
+      "en_description": "NGT",
+      "zh_description": "é¼»èç®¡"
+    },
+    {
+      "type": "Word",
+      "id": "w121",
+      "en_description": "node",
+      "zh_description": "è"
+    },
+    {
+      "type": "Word",
+      "id": "w122",
+      "en_description": "NOK",
+      "zh_description": "è¿äº²"
+    },
+    {
+      "type": "Word",
+      "id": "w123",
+      "en_description": "nuke",
+      "zh_description": "æ ¸å»å­¦, æ ¸å½±å"
+    },
+    {
+      "type": "Word",
+      "id": "w124",
+      "en_description": "nukes",
+      "zh_description": "æ ¸å»å­¦, æ ¸å½±å"
+    },
+    {
+      "type": "Word",
+      "id": "w125",
+      "en_description": "NUM",
+      "zh_description": "çæ¿æ¤å£«é¿"
+    },
+    {
+      "type": "Word",
+      "id": "w126",
+      "en_description": "nutrition",
+      "zh_description": "è¥å», è¥å»ä½ç¨"
+    },
+    {
+      "type": "Word",
+      "id": "w127",
+      "en_description": "obs",
+      "zh_description": "çæµ, çå½ä½å¾çæµ"
+    },
+    {
+      "type": "Word",
+      "id": "w128",
+      "en_description": "observations",
+      "zh_description": "çæµ, çå½ä½å¾çæµ"
+    },
+    {
+      "type": "Word",
+      "id": "w129",
+      "en_description": "oedema",
+      "zh_description": "æ°´è¿"
+    },
+    {
+      "type": "Word",
+      "id": "w130",
+      "en_description": "oncologist",
+      "zh_description": "è¿ç¤å»ç,è¿ç¤å­¦å®¶"
+    },
+    {
+      "type": "Word",
+      "id": "w131",
+      "en_description": "oncology",
+      "zh_description": "è¿ç¤å­¦"
+    },
+    {
+      "type": "Word",
+      "id": "w132",
+      "en_description": "opioids",
+      "zh_description": "ç±»é¸¦çè¯ç©,é¿çç±»è¯ç©,é¿çç±»"
+    },
+    {
+      "type": "Word",
+      "id": "w133",
+      "en_description": "paediatrics",
+      "zh_description": "å¿ç§,å¿ç§å­¦"
+    },
+    {
+      "type": "Word",
+      "id": "w134",
+      "en_description": "pathologist",
+      "zh_description": "ççå­¦å®¶"
+    },
+    {
+      "type": "Word",
+      "id": "w135",
+      "en_description": "pathology",
+      "zh_description": "ççå­¦"
+    },
+    {
+      "type": "Word",
+      "id": "w136",
+      "en_description": "PCA",
+      "zh_description": "æ£èèªæ§éç,çäººèªæ§éç"
+    },
+    {
+      "type": "Word",
+      "id": "w137",
+      "en_description": "psychiatrist",
+      "zh_description": "ç²¾ç¥çå­¦å®¶"
+    },
+    {
+      "type": "Word",
+      "id": "w138",
+      "en_description": "psycho-oncology",
+      "zh_description": "å¿çè¿ç¤å­¦,å¿çç¤¾ä¼è¿ç¤å­¦,è¿ç¤å¿çå­¦"
+    },
+    {
+      "type": "Word",
+      "id": "w139",
+      "en_description": "radiography",
+      "zh_description": "Xå°çº¿ç§åæ¯,Xåæåææ¯,Xå°çº¿ç§å,Xåæå"
+    },
+    {
+      "type": "Word",
+      "id": "w140",
+      "en_description": "rebore",
+      "zh_description": "å°¿éåéæ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w141",
+      "en_description": "rectum",
+      "zh_description": "ç´è "
+    },
+    {
+      "type": "Word",
+      "id": "w142",
+      "en_description": "recurrence",
+      "zh_description": "å¤å"
+    },
+    {
+      "type": "Word",
+      "id": "w143",
+      "en_description": "referral",
+      "zh_description": "è½¬è¯"
+    },
+    {
+      "type": "Word",
+      "id": "w144",
+      "en_description": "relapse",
+      "zh_description": "å¤å"
+    },
+    {
+      "type": "Word",
+      "id": "w145",
+      "en_description": "remission",
+      "zh_description": "ç¼è§£"
+    },
+    {
+      "type": "Word",
+      "id": "w146",
+      "en_description": "resection",
+      "zh_description": "åé¤,åé¤æ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w147",
+      "en_description": "risk",
+      "zh_description": "é£é©"
+    },
+    {
+      "type": "Word",
+      "id": "w148",
+      "en_description": "sarcoma",
+      "zh_description": "èç¤"
+    },
+    {
+      "type": "Word",
+      "id": "w149",
+      "en_description": "sats",
+      "zh_description": "è¡æ°§é¥±ååº¦"
+    },
+    {
+      "type": "Word",
+      "id": "w150",
+      "en_description": "saturation",
+      "zh_description": "è¡æ°§é¥±ååº¦"
+    },
+    {
+      "type": "Word",
+      "id": "w151",
+      "en_description": "screening",
+      "zh_description": "ç­æ¥"
+    },
+    {
+      "type": "Word",
+      "id": "w152",
+      "en_description": "sedation",
+      "zh_description": "éé"
+    },
+    {
+      "type": "Word",
+      "id": "w153",
+      "en_description": "sedative",
+      "zh_description": "ééç,éé"
+    },
+    {
+      "type": "Word",
+      "id": "w154",
+      "en_description": "side-effect",
+      "zh_description": "å¯ä½ç¨"
+    },
+    {
+      "type": "Word",
+      "id": "w155",
+      "en_description": "sim",
+      "zh_description": "æ¾å°æ²»çæ ååæµç¨"
+    },
+    {
+      "type": "Word",
+      "id": "w156",
+      "en_description": "specimen",
+      "zh_description": "æ æ¬"
+    },
+    {
+      "type": "Word",
+      "id": "w157",
+      "en_description": "sputum",
+      "zh_description": "ç°"
+    },
+    {
+      "type": "Word",
+      "id": "w158",
+      "en_description": "staging",
+      "zh_description": "åæ"
+    },
+    {
+      "type": "Word",
+      "id": "w159",
+      "en_description": "stoma",
+      "zh_description": "é å£,é å£æ¯,é çæ¯,é ç"
+    },
+    {
+      "type": "Word",
+      "id": "w160",
+      "en_description": "stools",
+      "zh_description": "å¤§ä¾¿,ç²ªä¾¿"
+    },
+    {
+      "type": "Word",
+      "id": "w161",
+      "en_description": "subcutaneous",
+      "zh_description": "ç®ä¸ç,ç®ä¸"
+    },
+    {
+      "type": "Word",
+      "id": "w162",
+      "en_description": "surgery",
+      "zh_description": "ææ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w163",
+      "en_description": "survivorship",
+      "zh_description": "å¹¸å­èæ¤ç,å§æ¯æ²»ç,å§æ¯çæ³"
+    },
+    {
+      "type": "Word",
+      "id": "w164",
+      "en_description": "sutures",
+      "zh_description": "ç¼å"
+    },
+    {
+      "type": "Word",
+      "id": "w165",
+      "en_description": "tissue",
+      "zh_description": "ç»ç»"
+    },
+    {
+      "type": "Word",
+      "id": "w166",
+      "en_description": "TNM",
+      "zh_description": "æ¶æ§è¿ç¤ TNM åæç³»ç»,TNMåæç³»ç»"
+    },
+    {
+      "type": "Word",
+      "id": "w167",
+      "en_description": "trachea",
+      "zh_description": "æ°ç®¡"
+    },
+    {
+      "type": "Word",
+      "id": "w168",
+      "en_description": "TRUS",
+      "zh_description": "ç»ç´è è¶å£°æ£æ¥"
+    },
+    {
+      "type": "Word",
+      "id": "w169",
+      "en_description": "tumour",
+      "zh_description": "è¿ç¤"
+    },
+    {
+      "type": "Word",
+      "id": "w170",
+      "en_description": "tumour markers",
+      "zh_description": "è¿ç¤æ å¿ç©"
+    },
+    {
+      "type": "Word",
+      "id": "w171",
+      "en_description": "TURP",
+      "zh_description": "ç»å°¿éååèºåé¤æ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w172",
+      "en_description": "ultrasound",
+      "zh_description": "è¶å£°,è¶å£°æ³¢"
+    },
+    {
+      "type": "Word",
+      "id": "w173",
+      "en_description": "urethra",
+      "zh_description": "å°¿é"
+    },
+    {
+      "type": "Word",
+      "id": "w174",
+      "en_description": "urology",
+      "zh_description": "æ³å°¿ç§å­¦,æ³å°¿ç§"
+    },
+    {
+      "type": "Word",
+      "id": "w175",
+      "en_description": "uro-oncology",
+      "zh_description": "æ³å°¿è¿ç¤ç§"
+    },
+    {
+      "type": "Word",
+      "id": "w176",
+      "en_description": "VATS",
+      "zh_description": "çµè§è¾å©è¸èéææ¯,è¸èéææ¯"
+    },
+    {
+      "type": "Word",
+      "id": "w177",
+      "en_description": "vein",
+      "zh_description": "éè"
+    },
+    {
+      "type": "Word",
+      "id": "w178",
+      "en_description": "venepuncture",
+      "zh_description": "éèç©¿åº"
+    },
+    {
+      "type": "Word",
+      "id": "w179",
+      "en_description": "vessel",
+      "zh_description": "èç®¡"
+    },
+    {
+      "type": "Word",
+      "id": "w180",
+      "en_description": "void",
+      "zh_description": "æå°¿"
+    },
+    {
+      "type": "Word",
+      "id": "w181",
+      "en_description": "voided",
+      "zh_description": "æå°¿"
+    },
+    {
+      "type": "Word",
+      "id": "w182",
+      "en_description": "VRE",
+      "zh_description": "ä¸å¤éç´ èè¯è çè"
+    },
+    {
+      "type": "Word",
+      "id": "w183",
+      "en_description": "x-ray",
+      "zh_description": "X-å°çº¿,xå°çº¿"
+    }
+  ]
+}
