@@ -1,6 +1,7 @@
 # nlp-project
 Code and data for the paper:
-Abstract here:
+To improve the translation quality of medical terminologies from English to Chinese, we compare the fine tuning result of a Neural Machine
+Translation (NMT) model using the ECCParaCorp data, with a large language model(Qwen2.5) using one-shot translation prompts within the same ECCParaCorp data.
 
 ## Data (training and test)
 ### Training data
