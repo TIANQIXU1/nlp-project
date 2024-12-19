@@ -14,13 +14,8 @@ In the test, we used our manually annotated EN cancer terminology (193 words and
 ## Fine-tuning opus-mt-en-zh
 In the first phase, in-domain data is used to fine-tune the MT model. You can see the script here:[opus-fine_tuning.py](https://github.com/TIANQIXU1/nlp-project/blob/main/opus-fine_tuning.py).
 ## Fine-tuning Qwen2.5 1.5B
-Prompts are created using the 'create_prompt'function
-## Inference
+Prompts are created using the 'create_prompt'function. The script is here: [qwen-fine_tuning.py](https://github.com/TIANQIXU1/nlp-project/blob/main/script/qwen-fine_tuning.py).
 
-### Tokenizers
-* **1.5B Qwen2.5 model**
-
-### Translation
 
 ## Evaluation
-Evaluation was done based on BLEU and human evaluation.
+Evaluation was done based on BLEU and human evaluation. The evaluation steps are included in the fine-tuing file.
